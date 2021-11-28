@@ -1,7 +1,7 @@
 {
   "name": "PEC2_Web_y_recursos_multimedia",
   "version": "1.0.0",
-  //
+  
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
